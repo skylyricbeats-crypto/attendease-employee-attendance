@@ -11,7 +11,7 @@
 
 ## Abstract
 
-This project presents a responsive Employee Attendance & Leave Management System for offices, universities, NGOs and small businesses. The website provides a dashboard, employee directory, attendance register and leave-request workflow. It is implemented with semantic HTML, CSS Grid/Flexbox and vanilla JavaScript. Sample Bangladeshi employee names and local initials-based avatars are included for demonstration. Leave requests are stored in browser localStorage, so the prototype works without a server.
+This project presents a responsive Employee Attendance & Leave Management System for offices, universities, NGOs and small businesses. The website provides a dashboard, employee directory, attendance register and leave-request workflow. It is implemented with semantic HTML, CSS Grid/Flexbox and vanilla JavaScript. Sample Bangladeshi employee names and synthetic AI-generated employee portraits are included for demonstration. Leave requests are stored in browser localStorage, so the prototype works without a server.
 
 ## Table of Contents
 
@@ -50,7 +50,7 @@ The main objectives are to:
 
 The design uses a navy sidebar and a light workspace background. A fixed navigation menu provides access to Dashboard, Employees, Attendance and Leave Requests. Cards are used for high-level statistics, while tables are used for structured records. Green, orange and red badges communicate Present, Late and Absent states.
 
-The demo includes eight fictional employee records: Arafat Hossain, Nusrat Jahan, Tanvir Ahmed, Sumaiya Rahman, Sakib Khan, Moumita Das, Fahim Chowdhury and Jannatul Ferdous. The avatars are local initials-based UI assets rather than photographs of real people.
+The demo includes eight fictional employee records: Arafat Hossain, Nusrat Jahan, Tanvir Ahmed, Sumaiya Rahman, Sakib Khan, Moumita Das, Fahim Chowdhury and Jannatul Ferdous. The portraits are synthetic AI-generated demo images and are not photographs of real people.
 
 ## 4. Implementation with Code and Output
 
