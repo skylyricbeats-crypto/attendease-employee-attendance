@@ -81,6 +81,12 @@ The code uses client-side rendering for quick navigation. The leave form adds a 
 
 ![Dashboard desktop](screenshots/dashboard-desktop.png)
 
+### People Overview — Employee Photos
+
+![People overview with employee photos](screenshots/people-overview-employee-photos.png)
+
+The People Overview screen displays the administrator greeting, attendance summary cards and employee portraits with English and Bangla names.
+
 ### Employees — Desktop
 
 ![Employees desktop](screenshots/employees-desktop.png)
